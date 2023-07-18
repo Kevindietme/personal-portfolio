@@ -11,6 +11,8 @@
   "dependencies": {
     "autoprefixer": "10.4.14",
     "next": "13.4.9",
+    "particles": "^0.3.1",
+    "particles.js": "^2.0.0",
     "postcss": "8.4.25",
     "react": "18.2.0",
     "react-dom": "18.2.0",

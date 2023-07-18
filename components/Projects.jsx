@@ -14,33 +14,33 @@ export default function Projects() {
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content" />
-          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-white font-medium title-font mb-4">Chichen Itza</h2>
+          <img class="h-84 rounded w-full object-cover object-center mb-6" src="./images/arcadeSnakeImage.png" alt="content" />
+          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">PROJECT</h3>
+          <h2 class="text-lg text-white font-medium title-font mb-4">Arcade Snake Game</h2>
           <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content" />
-          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-white font-medium title-font mb-4">Colosseum Roma</h2>
+          <img class="h-84 rounded w-full object-cover object-center mb-6" src="./images/stopWatchTimer.png" alt="content" />
+          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">PROJECT</h3>
+          <h2 class="text-lg text-white font-medium title-font mb-4">Stopwatch Timer</h2>
           <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content" />
-          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-white font-medium title-font mb-4">Great Pyramid of Giza</h2>
+          <img class="h-84 rounded w-full object-cover object-center mb-6" src="./images/cafeMenu.jpg" alt="content" />
+          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">PROJECT</h3>
+          <h2 class="text-lg text-white font-medium title-font mb-4">Hot & Ice Coffee Menu</h2>
           <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content" />
-          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-white font-medium title-font mb-4">San Francisco</h2>
+          <img class="h-84 rounded w-full object-cover object-center mb-6" src="./images/counterImage.jpg" alt="content" />
+          <h3 class="tracking-widest text-yellow-400 text-xs font-medium title-font">PROJECT</h3>
+          <h2 class="text-lg text-white font-medium title-font mb-4">Counter App</h2>
           <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
         </div>
       </div>
